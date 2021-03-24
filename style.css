@@ -1,0 +1,52 @@
+.container{
+    width: 950px;
+    background-color: silver;
+  margin: 0 auto;
+    padding: 2px;
+    height: 200px;
+    display: flex;
+}
+
+.container-2{
+    width: 950px;
+    background-color: silver;
+  margin: 0 auto;
+    padding: 2px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.green-box {
+    height: 150px;
+    background-color: green;
+    width: 925px;
+    margin: 10px;
+}
+.blue-box {
+    height: 275px;
+    width: 200px;
+    background-color: blue;}
+    
+.red-box {
+    height: 350px;
+    width: 600px;
+display: flex;
+    background-color: red;
+    flex-wrap: wrap;
+   
+    
+}
+.yellow-box {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin: 20px;
+}
+.purple-box {
+    height: 100px;
+    width: 660px;
+    background-color: purple;
+    margin: 20px;
+}
+
